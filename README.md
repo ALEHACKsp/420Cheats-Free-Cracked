@@ -11,4 +11,7 @@ Included:
 .dll of free cheat        (inject to GameOverlayUI.exe)
 
 EDIT:
-Added DarkAim DLL, their loader is the same. (Along with probably 10 other p2c's...)
+Added DarkAim, their loader is the same. (Along with probably 10 other p2c's...)
+
+EDIT2:
+Added InsanityCheats, unlike all the other ones here, this is an INTERNAL cheat.
