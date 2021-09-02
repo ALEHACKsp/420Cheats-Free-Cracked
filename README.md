@@ -9,3 +9,6 @@ Peering into the function C420CheatsLoader::GiveDebugPrivileges(), you can see t
 Included:               
 .idb of free cheat loader (fixed imports using VMPImportFixer)                       
 .dll of free cheat        (inject to GameOverlayUI.exe)
+
+EDIT:
+Added DarkAim DLL, their loader is the same. (Along with probably 10 other p2c's...)
